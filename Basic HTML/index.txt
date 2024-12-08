@@ -127,9 +127,44 @@
        => Attributes provides additional information about elements.
        => Always specified in the start tag.
        => Attributes usually come in name/value pairs like: name="value".
-       
 
 
 
+
+
+:::::::::       ✨✨✨ ACHOR TAG     ✨✨✨     :::::::::::::::
+
+=> HTML <a> tag defines a hyperlink.
+=>You can click on it to jump to a new page or a section of the current page
+=> <a> tag has one important attribute -> href
+=> href -> indicates the link’s destination.
+=> The content for a tag can be text or even an image.
+=> The <a> tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to:
+
+
+    ::::: 🔥🔥🔥🔥🔥🔥 Difference  B/w Absolute Path and Relative Path🚀🚀🚀🚀::::::::
+    
+    🔥🔥 Absolute Path:-
+                        => An absolute URL provides the full path to the resource, starting from the root of the web. 
+                        => It includes the protocol (http://, https://), domain name, and the full path to the resource.
+
+                ✨ex:-https://www.example.com/about-us.html.
+                🌟When to use:-
+                :: To link to external websites.
+                :: To ensure the link works regardless of the current page's location.
+                :: When accessing resources hosted on a different server.
+
+        
+    🔥🔥 Relative Path:-
+                    =>A relative URL specifies the path to the resource in relation to the location of the current document. 
+                    =>It doesn't include the protocol or domain name, and it is often shorter.
+                    
+                    🌟When to use:-
+                        :: To link to resources within the same website.
+                        :: To simplify link management when resources on the same server.
+                     ✨ex:-"../images/logo.png"
+
+
+    
 
 
