@@ -165,6 +165,13 @@
                      ✨ex:-"../images/logo.png"
 
 
+:::::::::: ✨✨✨✨✨✨✨  Links Book Marks ✨✨✨✨✨✨✨:::::::::
+        => intial make id which u want to select to make book mark 
+            ex:- <h1 id="Selection1">why to read books?</h1>
+        => call the id in achor tag in href with #
+            ex:-<a href="#Selection1">Why to we read it?</a>
+
+
     
 
 
